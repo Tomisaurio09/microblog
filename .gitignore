@@ -17,6 +17,7 @@ build/
 
 instance/
 .env
+.flaskenv
 *.env
 *.env.*
 *.secret
